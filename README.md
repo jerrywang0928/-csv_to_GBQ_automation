@@ -12,5 +12,3 @@ This script will automatically import CSV files to your GBQ database. Just place
 
 Importing CSV files to a database is a common task needed for data science and analytics and it can be done completely with python using pandas dataframes, numpy, os library.
 
-Reference: Nate from StrataScratch
-
