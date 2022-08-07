@@ -1,4 +1,4 @@
-# -csv_to_GBQ_automation
+# csv_to_GBQ_automation
 Python script that automates CSV file imports to a Google BigQuery database
 
 By: Zhe Wang 
